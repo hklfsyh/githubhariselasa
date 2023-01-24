@@ -7,4 +7,3 @@ git commit -m "Commit otomatis Jenkins"
 git remote rm origin && git remote add origin https://github.com/hklfsyh/githubhariselasa.git
 git push origin master
 
-hhhhaha hihihi
