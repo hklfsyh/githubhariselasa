@@ -1,0 +1,8 @@
+git log
+git config --global user.name "hklfsyh"
+git config --global user.email "haikalafifsyah@gmail.com"
+git config pull.rebase false
+git add -A
+git commit -m "Commit otomatis Jenkins"
+git remote rm origin && git remote add origin https://github.com/hklfsyh/githubhariselasa.git
+git push origin master
